@@ -12,6 +12,8 @@ class MyPaint2 extends JFrame implements KeyListener{
 	}
 	DrawCanvas2 drawCanvas = new DrawCanvas2();
 	MyPaint2(){
+
+		//brand new comment in my code
 		
 		this.add(drawCanvas);
 
