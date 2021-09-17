@@ -16,6 +16,7 @@ class MyPaint2 extends JFrame implements KeyListener{
 		//brand new comment in my code
 		
 		this.add(drawCanvas);
+		//Testing VSGit one last time
 
 		this.addKeyListener(this);
 		
